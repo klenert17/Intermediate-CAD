@@ -43,7 +43,17 @@ This was the second part I build for this assignment. With using the Use tool I 
 ### Reflection 4.3
  
 This was the first teamwork part of the assignment, which made it go by much faster. With dividing up the mates to each person, it was done very quickly. You need to make sure that you and your partner are communicating about what you are doing though, because if things are mated in the wrong order, mated twice, or not mated at all it can quickly break. The key to this part of the assignment is communication and planning out what each person will be doing.
+
+### Image 4.4/4.5 - Branching and Personalization
+
+![Screenshot (9)](https://user-images.githubusercontent.com/71406905/197853909-9d686c79-9553-419f-80a0-429e3d22d994.png)
+![Screenshot (1)](https://user-images.githubusercontent.com/71406905/197853928-df63e89e-5904-450d-a38c-01b9f83e603f.png)
+
+
+### Reflection 4.4/4.5 - Branching and Personalization
  
+This was the final part of the assignment. We created branches that allow us to "branch" off of the main build and create our own customization and edits without effecting or breaking anything on the main build. This was super helpful because it allowed us each to create our own ideas without interfearing with eachother. I edited the prop by making the slanted parts a little more level, and adding a fillet to the end to make the win fall off smoother.
+
 ---
 
 
@@ -55,7 +65,12 @@ This was the first practice of the year for the OnShape certification exam later
 
 ### Evidence
 
+[Link to Part in OnShape](https://cvilleschools.onshape.com/documents/fff982c7e003a11dc311a17a/w/fa6f19a762e7ddfe8c35312f/e/2f94c34e66b339f521a84638?renderMode=0&uiState=63582c4ab408f856e484f4e7)
+
 ### Image
+
+![Screenshot (10)](https://user-images.githubusercontent.com/71406905/197854490-8b895367-abae-49d5-903c-9b5ea5033cf6.png)
+![Screenshot (11)](https://user-images.githubusercontent.com/71406905/197854585-462a81f8-b356-46f1-b769-53702deb5396.png)
 
 ### Reflection
 
@@ -68,12 +83,22 @@ This assignment was very hard to get started. With making the main sketch, I was
 
 ### Description
 
+THis assignment was another practice for the end of year OnShape Certification Exam, and it had us use 10 pages of blue-prints and 4 questions, each with part ajustments, to create a multiple-part build in one Part Studio. Each question gave us four mass options and a dimension ajustment for a part. Each ajustment was done in a different branch as taught in the first CAD assignment
+
 ### Evidence
 
-### Image
+[Link to Part in OnShape](https://cvilleschools.onshape.com/documents/a0370c0732f626d8c977acf1/w/d03c6b219245fb81fd80b9d3/e/f71e5301c2587dd9a25ed6b2?renderMode=0&uiState=63582d016623e845d4f368f0)
+
+### Images
+
+![Screenshot (12)](https://user-images.githubusercontent.com/71406905/197858783-006c3f4f-55ea-4a85-b9ff-f927de79a5c8.png)
+![Screenshot (13)](https://user-images.githubusercontent.com/71406905/197858806-5b6e7092-6dbb-4862-b9ab-73e31c5793ab.png)
+![Screenshot (14)](https://user-images.githubusercontent.com/71406905/197858821-75be309c-35ce-489c-9356-8f17c5a891bf.png)
+![Screenshot (15)](https://user-images.githubusercontent.com/71406905/197858838-7d306ec4-5ca7-40cb-b581-a1156f45994f.png)
+
 
 ### Reflection
 
-With using the take-aways I learned from the previous assignment, this assignment went much smoother. The hardest part of this assignment was that it all had to be built in the same Part-Studio. This assignment utalized the Use tool alot, which later allowed me to make one change to a part rather than editing all of them. The tool allows a part to be a certain size based on a different part. I used ** for the first time, which is a tool that allows a section of a part to be added or taken away based on another part, which I used for creating indents for the cylinder on the base. It was relly cool to be able to ajust all parts based on one, and it made answering the assignments questions very fast. 
+With using the take-aways I learned from the previous assignment, this assignment went much smoother. The hardest part of this assignment was that it all had to be built in the same Part-Studio. This assignment utalized the Use tool a lot, which later allowed me to make one change to a part rather than editing all of them. The tool allows a part to be a certain size based on a different part. I used Boolean for the first time, which is a tool that allows a section of a part to be added or taken away based on another part, which I used for creating indents for the cylinder on the base. It was relly cool to be able to ajust all parts based on one, and it made answering the assignments questions very fast. For question 2, I changed the height of the cylinder which taught me to change the extrusion length of the bolts to Up to Face of the top which allowed them to change in length as the cylinder did. For question 3 I made the caps thicker and the hole for the plunger wider, and because the thickness of the plunger is bassed off the thickness of the hole, due to the Use tool, it also changed in thickness. For question 4, I needed to make the cylinder wide and change the material to lead, making it much heavier, and due to the Boolean tool basing the size of the indent in the caps off of the size of the cylinder, it automatically changed itself.
 
 ---
