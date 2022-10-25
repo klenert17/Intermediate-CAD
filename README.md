@@ -94,7 +94,7 @@ This assignment was another practice for the end of year OnShape Certification E
 ![Plunger 1](https://user-images.githubusercontent.com/71406905/197859593-41dea33e-6357-4d4d-ac6c-f15c2df2344d.jpg)
 ![Plunger 2](https://user-images.githubusercontent.com/71406905/197859610-52d8a9c2-2b43-413c-9c59-7afbcccbf3ab.jpg)
 ![Plunger 3](https://user-images.githubusercontent.com/71406905/197859621-cbdd9bae-8967-49b4-a770-cbed27f9d11c.jpg)
-![Plunger 4](https://user-images.githubusercontent.com/71406905/197859809-fd1068ba-aed2-4ead-9474-cb4737e9c7c2.jpg)
+![Plunger 4](https://user-images.githubusercontent.com/71406905/197860378-5b9ab33b-8db9-4493-8be4-e71185b2259b.jpg)
 
 ### Reflection
 
