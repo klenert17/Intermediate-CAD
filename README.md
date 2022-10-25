@@ -90,10 +90,57 @@ This assignment was another practice for the end of year OnShape Certification E
 
 ### Images
 
-![Plunger 1](https://user-images.githubusercontent.com/71406905/197859593-41dea33e-6357-4d4d-ac6c-f15c2df2344d.jpg)
-![Plunger 2](https://user-images.githubusercontent.com/71406905/197859610-52d8a9c2-2b43-413c-9c59-7afbcccbf3ab.jpg)
-![Plunger 3](https://user-images.githubusercontent.com/71406905/197859621-cbdd9bae-8967-49b4-a770-cbed27f9d11c.jpg)
-![Plunger 4](https://user-images.githubusercontent.com/71406905/197862633-48378f01-cfdf-4f0d-a9b6-a925592044ba.jpg)
+ <div class="row">
+<!DOCTYPE png>
+<png>
+<body>
+
+<figure>
+  <img src="https://user-images.githubusercontent.com/71406905/197865889-294bfe62-85fd-41ee-9690-de123b8f3814.png" alt="Answer 1" style ="width:10%">
+  <figcaption>Fig.1 - Answer 1.</figcaption>
+</figure>
+
+</body>
+</png>
+
+<!DOCTYPE png>
+<png>
+<body>
+
+<figure>
+  <img src="https://user-images.githubusercontent.com/71406905/197866304-5522e429-cf15-454f-975b-37f4f4569b96.png" alt="Answer 2" style ="width:10%">
+  <figcaption>Fig.2 - Answer 2.</figcaption>
+</figure>
+
+</body>
+</png>
+
+<!DOCTYPE png>
+<png>
+<body>
+ 
+<figure>
+  <img src="https://user-images.githubusercontent.com/71406905/197862975-c520f0f1-ad30-4f6c-992f-eb6da0614a18.png" alt="Answer 3" style ="width:10%">
+  <figcaption>Fig.3 - Answer 3.</figcaption>
+</figure>
+
+</body>
+</png>
+
+<!DOCTYPE png>
+<png>
+<body>
+
+<figure>
+  <img src="https://user-images.githubusercontent.com/71406905/197863714-8fd10fe3-a9af-412f-9551-f83c525f7130.png" alt="Answer 4" style ="width:10%">
+  <figcaption>Fig.4 - Answer 4.</figcaption>
+</figure>
+
+</body>
+</png>
+ </div>
+
+
 
 ### Reflection
 
