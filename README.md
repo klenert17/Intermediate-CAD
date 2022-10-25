@@ -67,7 +67,7 @@ This was the first practice of the year for the OnShape certification exam later
 
 [Link to Part in OnShape](https://cvilleschools.onshape.com/documents/fff982c7e003a11dc311a17a/w/fa6f19a762e7ddfe8c35312f/e/2f94c34e66b339f521a84638?renderMode=0&uiState=63582c4ab408f856e484f4e7)
 
-### Image
+### Images
 
 ![Screenshot (10)](https://user-images.githubusercontent.com/71406905/197854490-8b895367-abae-49d5-903c-9b5ea5033cf6.png)
 ![Screenshot (11)](https://user-images.githubusercontent.com/71406905/197854585-462a81f8-b356-46f1-b769-53702deb5396.png)
@@ -83,7 +83,7 @@ This assignment was very hard to get started. With making the main sketch, I was
 
 ### Description
 
-THis assignment was another practice for the end of year OnShape Certification Exam, and it had us use 10 pages of blue-prints and 4 questions, each with part ajustments, to create a multiple-part build in one Part Studio. Each question gave us four mass options and a dimension ajustment for a part. Each ajustment was done in a different branch as taught in the first CAD assignment
+This assignment was another practice for the end of year OnShape Certification Exam, and it had us use 10 pages of blue-prints and 4 questions, each with part ajustments, to create a multiple-part build in one Part Studio. Each question gave us four mass options and a dimension ajustment for a part. Each ajustment was done in a different branch as taught in the first CAD assignment
 
 ### Evidence
 
@@ -91,11 +91,10 @@ THis assignment was another practice for the end of year OnShape Certification E
 
 ### Images
 
-![Screenshot (12)](https://user-images.githubusercontent.com/71406905/197858783-006c3f4f-55ea-4a85-b9ff-f927de79a5c8.png)
-![Screenshot (13)](https://user-images.githubusercontent.com/71406905/197858806-5b6e7092-6dbb-4862-b9ab-73e31c5793ab.png)
-![Screenshot (14)](https://user-images.githubusercontent.com/71406905/197858821-75be309c-35ce-489c-9356-8f17c5a891bf.png)
-![Screenshot (15)](https://user-images.githubusercontent.com/71406905/197858838-7d306ec4-5ca7-40cb-b581-a1156f45994f.png)
-
+![Plunger 1](https://user-images.githubusercontent.com/71406905/197859593-41dea33e-6357-4d4d-ac6c-f15c2df2344d.jpg)
+![Plunger 2](https://user-images.githubusercontent.com/71406905/197859610-52d8a9c2-2b43-413c-9c59-7afbcccbf3ab.jpg)
+![Plunger 3](https://user-images.githubusercontent.com/71406905/197859621-cbdd9bae-8967-49b4-a770-cbed27f9d11c.jpg)
+![Plunger 4](https://user-images.githubusercontent.com/71406905/197859809-fd1068ba-aed2-4ead-9474-cb4737e9c7c2.jpg)
 
 ### Reflection
 
