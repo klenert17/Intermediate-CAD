@@ -96,7 +96,7 @@ This assignment was another practice for the end of year OnShape Certification E
 <body>
 
 <figure>
-  <img src="https://user-images.githubusercontent.com/71406905/197865889-294bfe62-85fd-41ee-9690-de123b8f3814.png" alt="Answer 1" style ="width:10%">
+  <img src="https://user-images.githubusercontent.com/71406905/197865889-294bfe62-85fd-41ee-9690-de123b8f3814.png" alt="Answer 1" style ="width:12%">
   <figcaption>Fig.1 - Answer 1.</figcaption>
 </figure>
 
@@ -108,7 +108,7 @@ This assignment was another practice for the end of year OnShape Certification E
 <body>
 
 <figure>
-  <img src="https://user-images.githubusercontent.com/71406905/197866304-5522e429-cf15-454f-975b-37f4f4569b96.png" alt="Answer 2" style ="width:10%">
+  <img src="https://user-images.githubusercontent.com/71406905/197866304-5522e429-cf15-454f-975b-37f4f4569b96.png" alt="Answer 2" style ="width:12%">
   <figcaption>Fig.2 - Answer 2.</figcaption>
 </figure>
 
@@ -120,7 +120,7 @@ This assignment was another practice for the end of year OnShape Certification E
 <body>
  
 <figure>
-  <img src="https://user-images.githubusercontent.com/71406905/197862975-c520f0f1-ad30-4f6c-992f-eb6da0614a18.png" alt="Answer 3" style ="width:10%">
+  <img src="https://user-images.githubusercontent.com/71406905/197862975-c520f0f1-ad30-4f6c-992f-eb6da0614a18.png" alt="Answer 3" style ="width:12%">
   <figcaption>Fig.3 - Answer 3.</figcaption>
 </figure>
 
@@ -132,7 +132,7 @@ This assignment was another practice for the end of year OnShape Certification E
 <body>
 
 <figure>
-  <img src="https://user-images.githubusercontent.com/71406905/197863714-8fd10fe3-a9af-412f-9551-f83c525f7130.png" alt="Answer 4" style ="width:10%">
+  <img src="https://user-images.githubusercontent.com/71406905/197863714-8fd10fe3-a9af-412f-9551-f83c525f7130.png" alt="Answer 4" style ="width:12%">
   <figcaption>Fig.4 - Answer 4.</figcaption>
 </figure>
 
