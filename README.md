@@ -1,13 +1,12 @@
 # Intermediate-CAD
 
-We are creating a caster.
-
+Building a Pull Copter, Swing Arm, and a Multi-Part Design
 ---
 ## Table of Contents
 * [Table of Contents](#Table-of-Contents)
 * [Pull Copter](#Pull-Copter)
 * [Swing Arm](#Swing-Arm)
-* [Multipart Design Practice](#Multipart-Design-Practice)
+* [Multipart Design Practice](#Multi-part-Design-Practice)
 
 
 ## Pull Copter
@@ -43,7 +42,7 @@ This was the second part I build for this assignment. With using the Use tool I 
 
 ### Reflection 4.3
  
- This was the first teamwork part of the assignment, which made it go by much faster. With dividing up the mates to each person, it was done very quickly. You need to make sure that you and your partner are communicating about what you are doing though, because if things are mated in the wrong order, mated twice, or not mated at all it can quickly break. The key to this part of the assignment is communication and planning out what each person will be doing.
+This was the first teamwork part of the assignment, which made it go by much faster. With dividing up the mates to each person, it was done very quickly. You need to make sure that you and your partner are communicating about what you are doing though, because if things are mated in the wrong order, mated twice, or not mated at all it can quickly break. The key to this part of the assignment is communication and planning out what each person will be doing.
  
 ---
 
@@ -52,16 +51,20 @@ This was the second part I build for this assignment. With using the Use tool I 
 
 ### Description
 
+This was the first practice of the year for the OnShape certification exam later this year. This assignment gave us 4 blue-print pages and we needed to find the mass of two different configurations of a swing rm.
+
 ### Evidence
 
 ### Image
 
 ### Reflection
 
+This assignment was very hard to get started. With making the main sketch, I was trying to find the demensions for every single part of the sketch. This was my first mistake and it taught me to use the Configuration tool for parts that I don't have dimensions for. If I were to restart this part of the assignment, I would only dimension the ones I am given and configure all the other lines. I also learned that the sketch may not look perfect at the begining, but I need to keep sketching becusae eventually it will combine into the goal sketch. A helpful tool I used when extruding the part was the Plane tool, which I built through the middle of the part allowing it to have easity symmetric features. This made the whole build much fastr because I would only need to add one thing instead of two. Another big problem I had was not realizing that the ends of the arm were not symmetric. I kept trying to make tjem equal by using the same sketch, instead of doing each induvidually which cause the arms to be incorrect. I also use variables in the sketch to make the shape and size vary baased on input which was helpful.
+
 ---
 
 
-## Multipart Design Practice
+## Multi-part Design Practice
 
 ### Description
 
@@ -70,5 +73,7 @@ This was the second part I build for this assignment. With using the Use tool I 
 ### Image
 
 ### Reflection
+
+With using the take-aways I learned from the previous assignment, this assignment went much smoother. The hardest part of this assignment was that it all had to be built in the same Part-Studio. This assignment utalized the Use tool alot, which later allowed me to make one change to a part rather than editing all of them. The tool allows a part to be a certain size based on a different part. I used ** for the first time, which is a tool that allows a section of a part to be added or taken away based on another part, which I used for creating indents for the cylinder on the base. It was relly cool to be able to ajust all parts based on one, and it made answering the assignments questions very fast. 
 
 ---
