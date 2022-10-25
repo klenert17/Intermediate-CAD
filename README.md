@@ -69,8 +69,8 @@ This was the first practice of the year for the OnShape certification exam later
 
 ### Images
 
-![Screenshot (10)](https://user-images.githubusercontent.com/71406905/197854490-8b895367-abae-49d5-903c-9b5ea5033cf6.png)
-![Screenshot (11)](https://user-images.githubusercontent.com/71406905/197854585-462a81f8-b356-46f1-b769-53702deb5396.png)
+![Swing Arm 1](https://user-images.githubusercontent.com/71406905/197860762-338aa706-5ec6-46d1-b78c-d036feb34aa5.jpg)
+![Swing Arm 2](https://user-images.githubusercontent.com/71406905/197860784-89f6cf0b-dace-4e47-a7b1-b6711758618c.jpg)
 
 ### Reflection
 
