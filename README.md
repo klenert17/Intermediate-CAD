@@ -20,7 +20,7 @@ This was my first assignment of the year on OnShape, and it was a partner projec
 
 ### Image 4.1 - Spinner
 
-![Screenshot (5)](https://user-images.githubusercontent.com/71406905/197610177-8d6cedc3-833a-4cd2-a29b-bb7eebc60858.png)
+![Copter 5](https://user-images.githubusercontent.com/71406905/197861612-819cc66c-e8c6-47a0-a609-978756576802.jpg)
 
 ### Reflection 4.1 - Spinner
 
@@ -28,7 +28,7 @@ This was the first part I built for this assignment, and the circular pattern to
  
 ### Image 4.2 - Prop
 
-![Screenshot (6)](https://user-images.githubusercontent.com/71406905/197611743-67d17dbd-8b58-4f66-a982-84ff66a49b14.png)
+![Copter 4](https://user-images.githubusercontent.com/71406905/197861645-db8c1a7a-27f6-4ca5-939e-c8c8e4b239a1.jpg)
 
 ### Reflection 4.2 - Prop
  
@@ -36,9 +36,8 @@ This was the second part I build for this assignment. With using the Use tool I 
  
 ### Image 4.3 - Assembly
 
-![Screenshot (8)](https://user-images.githubusercontent.com/71406905/197613510-736c50a0-3e99-4c59-95d9-6c63f1467e16.png)
-![Screenshot (7)](https://user-images.githubusercontent.com/71406905/197613569-11c18308-dac3-4d4f-8f50-ce665c099980.png)
-
+![Copter 1](https://user-images.githubusercontent.com/71406905/197861139-796f95c7-0dd6-433c-9c8e-65d1553134dc.jpg)
+![Copter 2](https://user-images.githubusercontent.com/71406905/197861162-488d2be7-ad4d-4671-b137-e4db17ae958b.jpg)
 
 ### Reflection 4.3
  
@@ -46,7 +45,7 @@ This was the first teamwork part of the assignment, which made it go by much fas
 
 ### Image 4.4/4.5 - Branching and Personalization
 
-![Screenshot (9)](https://user-images.githubusercontent.com/71406905/197853909-9d686c79-9553-419f-80a0-429e3d22d994.png)
+![Copter 3](https://user-images.githubusercontent.com/71406905/197861358-d0582da9-445a-4b08-9473-6bd004bf5d29.jpg)
 ![Screenshot (1)](https://user-images.githubusercontent.com/71406905/197853928-df63e89e-5904-450d-a38c-01b9f83e603f.png)
 
 
