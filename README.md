@@ -147,3 +147,28 @@ This assignment was another practice for the end of year OnShape Certification E
 With using the take-aways I learned from the previous assignment, this assignment went much smoother. The hardest part of this assignment was that it all had to be built in the same Part-Studio. This assignment utalized the Use tool a lot, which later allowed me to make one change to a part rather than editing all of them. The tool allows a part to be a certain size based on a different part. I used Boolean for the first time, which is a tool that allows a section of a part to be added or taken away based on another part, which I used for creating indents for the cylinder on the base. It was relly cool to be able to ajust all parts based on one, and it made answering the assignments questions very fast. For question 2, I changed the height of the cylinder which taught me to change the extrusion length of the bolts to Up to Face of the top which allowed them to change in length as the cylinder did. For question 3 I made the caps thicker and the hole for the plunger wider, and because the thickness of the plunger is bassed off the thickness of the hole, due to the Use tool, it also changed in thickness. For question 4, I needed to make the cylinder wide and change the material to lead, making it much heavier, and due to the Boolean tool basing the size of the indent in the caps off of the size of the cylinder, it automatically changed itself.
 
 ---
+
+## OnShape Assemblies
+
+### Description
+
+### Evidence
+
+### Images
+
+### Reflection
+
+---
+
+## OnShape Certification
+
+[Link to Certification](https://ti-user-certificates.s3.amazonaws.com/6e557ed6-d03d-4c48-9492-4d18d145d7a1/32fbffa5-6413-451f-9a92-2d01c6adcda2-kathryn-lenert-ca97bbd3-dd91-4f3f-95cf-a9ec8c452681-certificate.pdf)
+[Another Link to Specifics](https://mettl.com/analytics/share-report?key=GHdSgVaDjKFenVHpF0Uj7w%3D%3D).
+
+### Reflection
+
+Working in Onshape had always been my favorite component of engineering, so I had had a lot of previous practice. The practice we did in class taught me a lot of specific tools that I wasn't as familiar with, especially all of the restraints. The practice we did was also very helpful with my pacing and what to expect for the exam. The only marks I got off were on the multiple choice section. I expected this to be the easiest section because of having no restraints to the internet, but for me, it was the hardest. If I were to take it again, I would do more multiple choice practice. The test itself went well and I was more prepared for the time limit than I was expecting to be. Taking mental breaks during the test and using logic to figure out masses were the most helpful things to me during the test. If I were to take it again I would also take longer breaks because I had more than enough time to finish.
+
+---
+
+
