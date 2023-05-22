@@ -152,11 +152,28 @@ With using the take-aways I learned from the previous assignment, this assignmen
 
 ### Description
 
+For this assignment we had to follow an OnShape course to help us understand assemblies. We followed many videos, hints, and notes to help us complete three different assemblies. Each assembly helped us with a different component: creating an assembly, mating assembly components, and working with an assembly.
+
 ### Evidence
 
-### Images
+[Link to creating an assembly](https://cvilleschools.onshape.com/documents/5a7b17749cde7cf634e861d7/w/cf72c7590b58b316aa7f3a4e/e/4dbf67a917ffd64b1013a1d9)
+[Link to Creating Explicit Mate Connectors](https://cvilleschools.onshape.com/documents/7b488f983f72592d5d36c15d/w/48268ede85aecab545197291/e/4d42c3ff99abd73475f1d215)
+[Link to Working with an assembly](https://cvilleschools.onshape.com/documents/e8b1af0cc43a7b414fad0327/w/859e885ae39349690eb6e3d4/e/b211d2b4cb1a35f5e9973f3c)
+
+### Image for Creating an Assembly
+![image](https://github.com/klenert17/Intermediate-CAD/assets/71406905/94e57d9c-615d-4ac4-a7b0-d9d31752793f)
+
+### Image for Mating Assembly Components
+![image](https://github.com/klenert17/Intermediate-CAD/assets/71406905/e2570c4d-1845-4bdf-b74a-0e99efbf299d)
+
+### Image for Working with an Assembly
+![image](https://github.com/klenert17/Intermediate-CAD/assets/71406905/2b3cf5b6-b26f-4b64-bfae-c1466c21d777)
+
+Immage credits to [Sahana's Repo](https://github.com/sgupta70/IntermediateCAD)
 
 ### Reflection
+
+Overall these assignments were very helpful with learning how to create new mates, how they work, and using their limits. It went pretty smoothly and if I ever got stuck, everything was easily found either through google or the "help" tab on Onshape. The first assignment was the easiest for me because it was all made up of tools and mate I had used before. The second assignment introduced me to explicet mates which made making new mates that are not attached to a part or face much easier. It was a very good tool to learn, one that I wish I had learned about sooner. The last assignment was the most difficult for me because I had to learn which mates were able to work in tandem with eachother, such as a fasten and a cylindrical mate will not work together on the same part. This assignment was very helpful.
 
 ---
 
