@@ -157,8 +157,11 @@ For this assignment we had to follow an OnShape course to help us understand ass
 ### Evidence
 
 [Link to creating an assembly](https://cvilleschools.onshape.com/documents/5a7b17749cde7cf634e861d7/w/cf72c7590b58b316aa7f3a4e/e/4dbf67a917ffd64b1013a1d9)
+
 [Link to Creating Explicit Mate Connectors](https://cvilleschools.onshape.com/documents/7b488f983f72592d5d36c15d/w/48268ede85aecab545197291/e/4d42c3ff99abd73475f1d215)
+
 [Link to Working with an assembly](https://cvilleschools.onshape.com/documents/e8b1af0cc43a7b414fad0327/w/859e885ae39349690eb6e3d4/e/b211d2b4cb1a35f5e9973f3c)
+
 
 ### Image for Creating an Assembly
 ![image](https://github.com/klenert17/Intermediate-CAD/assets/71406905/94e57d9c-615d-4ac4-a7b0-d9d31752793f)
